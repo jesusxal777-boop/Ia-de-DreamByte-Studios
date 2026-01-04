@@ -1,0 +1,25 @@
+{
+  "cuanto es 2+2": "2 + 2 = 4",
+  "cuanto es 5+5": "5 + 5 = 10",
+  "cuanto es 10-3": "10 - 3 = 7",
+  "cuanto es 6x6": "6 × 6 = 36",
+  "cuanto es 8÷2": "8 ÷ 2 = 4",
+
+  "que es la inteligencia artificial": "La inteligencia artificial es una rama de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Fuente: https://www.ibm.com/es-es/topics/artificial-intelligence",
+  
+  "que es una app": "Una app es una aplicación de software diseñada para realizar una función específica en un dispositivo. Fuente: https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_m%C3%B3vil",
+
+  "que es android": "Android es un sistema operativo basado en Linux diseñado principalmente para dispositivos móviles. Fuente: https://www.android.com/what-is-android/",
+
+  "que es github": "GitHub es una plataforma para alojar y compartir código usando control de versiones Git. Fuente: https://docs.github.com/es",
+
+  "que es un json": "JSON es un formato de texto ligero para almacenar e intercambiar datos de forma estructurada. Fuente: https://www.json.org/json-es.html",
+
+  "que es una ia": "Una IA es un sistema que puede aprender, razonar o tomar decisiones simulando inteligencia humana. Fuente: https://www.bbvaopenmind.com/tecnologia/inteligencia-artificial/que-es-la-inteligencia-artificial/",
+
+  "que es matematicas": "Las matemáticas son una ciencia que estudia números, formas y relaciones. Fuente: https://es.wikipedia.org/wiki/Matem%C3%A1ticas",
+
+  "quien creo android": "Android fue creado inicialmente por Android Inc. y luego adquirido por Google. Fuente: https://www.android.com/history/",
+
+  "que es internet": "Internet es una red global que conecta millones de computadoras y dispositivos en todo el mundo. Fuente: https://www.cloudflare.com/es-es/learning/what-is-the-internet/"
+}
