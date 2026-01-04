@@ -1,0 +1,26 @@
+{
+  "hola": "Hey 👋 ¿qué tal?",
+  "buenas": "¡Buenas! 😄",
+  "hey": "Ey 👀 dime",
+
+  "como estas": "Bastante bien 😎 funcionando al 100%",
+  "todo bien": "Todo en orden por aquí 👍",
+  "que haces": "Pensando respuestas inteligentes… o al menos intentándolo 🤖",
+
+  "quien eres": "Soy la mini IA de DreamByte Studios 🤖",
+  "tu nombre": "Aún no tengo nombre oficial, pero puedes llamarme MiniIA 😅",
+  "que eres": "Soy una IA local, ligera y en constante mejora",
+
+  "gracias": "¡De nada! 😁",
+  "muchas gracias": "Para eso estoy 😎",
+
+  "ayudame": "__FUNC_NOT_READY__",
+  "codigo": "__FUNC_NOT_READY__",
+  "programar": "__FUNC_NOT_READY__",
+
+  "adios": "¡Nos vemos! 👋",
+  "bye": "Bye bye 👋",
+  "hasta luego": "Cuídate 😄",
+
+  "__default__": "Hmm 🤔 no estoy seguro de qué responder a eso"
+}
